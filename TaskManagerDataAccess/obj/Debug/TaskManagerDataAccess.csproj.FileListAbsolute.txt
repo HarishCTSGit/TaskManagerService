@@ -17,3 +17,4 @@ C:\Github\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAcce
 C:\Github\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAccess.pdb
 C:\Github\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.dll
 C:\Github\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.pdb
+C:\Github\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.csprojResolveAssemblyReference.cache

@@ -7,6 +7,7 @@ namespace TaskManagerService.ViewModel
     {
         [DataMember]
         public int TaskId { get; set; }
+
         [DataMember]
         public string TaskName { get; set; }
         [DataMember]

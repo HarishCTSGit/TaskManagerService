@@ -18,7 +18,7 @@ namespace TaskManagerTesting
             task.StartDate = DateTime.Now;
             task.EndDate = DateTime.Now.AddDays(15);
             task.IsEnded = false;
-            task.ParentTaskName = "Parent Task2";
+            task.ParentTaskName = "Parent Task3";
             task.Priority = 1;
 
             ctrl.AddTask(task);
