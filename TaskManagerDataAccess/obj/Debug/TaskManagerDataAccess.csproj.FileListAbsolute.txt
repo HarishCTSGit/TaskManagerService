@@ -13,3 +13,7 @@ C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerDataAccess\
 C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAccess.pdb
 C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.dll
 C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.pdb
+C:\Github\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAccess.dll
+C:\Github\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAccess.pdb
+C:\Github\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.dll
+C:\Github\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.pdb
